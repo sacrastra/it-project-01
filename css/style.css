@@ -1,0 +1,58 @@
+.section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+.name {
+    align-items: center;
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.name h1 {
+    color: #dfc5b9;
+    font-size: 60px;
+}
+
+.name i {
+    color: #dfc5b9;
+}
+
+.name a {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.image img {
+    border-radius: 50%;
+    margin-top: 80px;
+    float:left;
+}
+
+.location {
+    width: 220px;
+    margin-top: 110px;
+    float:right;
+}
+
+.location p {
+    margin-top: 24px;
+}
+
+.location h2 {
+    text-transform: uppercase;
+    color: #dfc5b9;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+.location hr {
+    height: 10px;
+    background-color: #5b5b5b;
+    border: 0;
+    margin-top: 28px;
+}
